@@ -239,22 +239,6 @@
                 }
             },
             {
-                "id": 14,
-                "title": "Advice From Your Doctor",
-                "description": "Is there anything you want to share with, or ask your doctor?",
-                "type": "question",
-                "videoLink": null,
-                "day": 25,
-                "published_at": "2021-11-14T20:22:19.799Z",
-                "created_at": "2021-11-14T20:22:18.678Z",
-                "updated_at": "2021-11-22T19:42:57.722Z",
-                "measurement_type": null,
-                "questionToDoctor": true,
-                "video": null,
-                "order": 13,
-                "image": null
-            },
-            {
                 "id": 20,
                 "title": "The Science of Lifestyle Medicine",
                 "description": "The Science of Lifestyle Medicine",
@@ -345,6 +329,22 @@
                     "created_at": "2021-11-22T18:20:32.735Z",
                     "updated_at": "2021-11-22T18:20:32.751Z"
                 }
+            },
+            {
+                "id": 14,
+                "title": "Advice From Your Doctor",
+                "description": "Is there anything you want to share with, or ask your doctor?",
+                "type": "question",
+                "videoLink": null,
+                "day": 25,
+                "published_at": "2021-11-14T20:22:19.799Z",
+                "created_at": "2021-11-14T20:22:18.678Z",
+                "updated_at": "2021-11-22T19:42:57.722Z",
+                "measurement_type": null,
+                "questionToDoctor": true,
+                "video": null,
+                "order": 13,
+                "image": null
             }
         ]
     }
