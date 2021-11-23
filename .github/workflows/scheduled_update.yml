@@ -3,7 +3,7 @@ name: scheduled-update
 # Controls when the workflow will run
 on:
   schedule:
-    - '* * * * *'
+    - cron: '* * * * *'
 
   workflow_dispatch:
 
