@@ -25,6 +25,6 @@ jobs:
           commit_options: '--allow-empty'
           repository: .
           status_options: '--untracked-files=no'
-          file_pattern: 'UPDATE.md'
+          file_pattern: 'content/day/*.json'
           skip_fetch: true
           disable_globbing: true
