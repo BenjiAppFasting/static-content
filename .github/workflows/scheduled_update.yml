@@ -28,6 +28,6 @@ jobs:
           commit_options: '--allow-empty'
           repository: .
           status_options: '--untracked-files=no'
-          file_pattern: 'content/day/*.json'
+          file_pattern: '*.*'
           skip_fetch: true
           disable_globbing: true
